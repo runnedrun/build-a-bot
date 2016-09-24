@@ -8,6 +8,9 @@ gameInput.keydown(function(keydownEvent) {
   }
 })
 
+
+gameOutput.html("🤖️🤖️")
+
 function parseText(text) {      
   if (text === "Good bye") {
     gameOutput.html("Bye!");
