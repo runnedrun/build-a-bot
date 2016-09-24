@@ -1,3 +1,7 @@
 #bot-name {
   color: red;
 }
+
+#bot-output {
+  position: relative;
+}
